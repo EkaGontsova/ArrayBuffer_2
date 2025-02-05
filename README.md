@@ -39,4 +39,4 @@ function getBuffer() {
 
 ---
 # CI Test Demo
-[![Build status](https://ci.appveyor.com/api/projects/status/k4yd0b5j13twrstt?svg=true)](https://ci.appveyor.com/project/EkaGontsova/ArrayBuffer_1_Math)
+[![Build status](https://ci.appveyor.com/api/projects/status/k4yd0b5j13twrstt?svg=true)](https://ci.appveyor.com/project/EkaGontsova/ArrayBuffer_2)
